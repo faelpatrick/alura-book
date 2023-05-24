@@ -6,7 +6,7 @@ Site criado durante aula da Alura.
 | -------------  | --- |
 | :sparkles: Nome        | **alura-book**
 | :label: Tecnologias | javascript, html e css(tecnologias utilizadas)
-| :rocket: URL         | https://faelpatrick.github.io/sga_grid/
+| :rocket: URL         | https://github.com/faelpatrick/alura-book/
 | 📁: URL         | https://alura-book-tau.vercel.app/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
