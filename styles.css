@@ -45,7 +45,7 @@
 
 :root:has(#tema:checked) .banner__pesquisa::placeholder {
   background: url("../images/LupaBlack.svg") no-repeat;
-
+  background-position: right;
   background-position: 10em;
 }
 
